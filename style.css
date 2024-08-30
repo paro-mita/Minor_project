@@ -50,10 +50,12 @@ header{
     color: white;
     cursor: pointer;
     padding: 8px;
+    border-radius: 15%;
     transition: 0.4s ease-in-out;
 }
 .nav1 .right i:hover{
-    transform: rotate(360deg);
+     transform: rotate(360deg); 
+    border-radius: 50%;
 }
 .nav2{
     width: 100%;
